@@ -95,10 +95,11 @@
     }
 
     .carousel-caption {
-      background-color: transparent;
+/*      background-color: transparent; */
+      background: rgba(0, 0, 0, 0.4);
       position: static;
       max-width: 550px;
-      padding: 0 20px;
+      padding: 10px 20px;
       margin-bottom: 100px;
     }
     .carousel-caption h1,
@@ -268,7 +269,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </a>
-          <a class="brand" href="#">autocritic</a>
+          <a class="brand" href="#">animalcritic</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
               <li class="active"><a href="#">Home</a></li>
@@ -285,7 +286,7 @@
     <div id="myCarousel" class="carousel slide">
       <div class="carousel-inner">
         {% for item in results %}
-          {% if loop.index == 0 %}
+          {% if loop.first %}
           <div class="item active">
           {% else %}
           <div class="item">
@@ -293,7 +294,7 @@
             <img src={{ item.image }} alt="">
             <div class="container">
               <div class="carousel-caption">
-                <h1>{{ item.title }} / {{ item.artist }}</h1>
+                <h1>{{ item.title }} | {{ item.artist }}</h1>
                 <p class="lead">{{ item.review }}</p>
                 <a class="btn btn-large btn-primary" href="#">Play</a>
               </div>
@@ -315,19 +316,9 @@
     <div class="container marketing">
       <!-- Three columns of text below the carousel -->
       <div class="row">
-        <div class="span4">
-          <h3>automatic</h3>
-          <p>Using Natural Language Processing techniques, we take actual song reviews and learn sentence structure and sentiment about songs.</p>
-          <p><a class="btn" href="#">View details &raquo;</a></p>
-        </div><!-- /.span4 -->
-        <div class="span4">
-          <h1>autocritic</h1>
-          <h3>one-sentence useful reviews of songs.</h3>
-        </div><!-- /.span4 -->
-        <div class="span4">
-          <h3>concise</h3>
-          <p>one sentence reviews mean it's easy to quickly scan a list and figure out what you want to listen to.</p>
-          <p><a class="btn" href="#">View details &raquo;</a></p>
+        <div class="span12">
+          <h1>animalcritic</h1>
+          <h3>one-sentence reviews of songs by the most elite music reviewers in the animal kingdom.</h3>
         </div><!-- /.span4 -->
       </div><!-- /.row -->
 
@@ -345,7 +336,7 @@
       !function ($) {
         $(function(){
           // carousel demo
-          $('#myCarousel').carousel()
+          $('#myCarousel').carousel({ interval : 7500 })
         })
       }(window.jQuery)
     </script>

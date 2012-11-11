@@ -2,606 +2,642 @@
 (dp2
 S'review'
 p3
-S'This three-and-a-half middle number feels a bit like a bomb, but the clear fossil-laden studio hits hard.'
+S'This first simple workout by the vintage acoustic act throws in dime-store proverbs, drum-machine bucks and a sample from a fourth finger.'
 p4
 sS'title'
 p5
-S'2 Forms of Anger'
+S'Bad As Me'
 p6
 sS'image'
 p7
-S'static/img/slide-04.jpg'
+S'static/img/1.jpg'
 p8
 sS'artist'
 p9
-S'Brian Eno'
+S'Tom Waits'
 p10
 sa(dp11
 g3
-S'But when Mary J. Blige gets to the chorus, they adopts a cool, hood-rat-pitched song, tingeing the gospel-soul track with scuzz and a hint of Darkness.'
+S"It's a hood-rat mystique whose danceable groove feels too amusing."
 p12
 sg5
-S'25/8'
+S'Bad Girls'
 p13
 sg7
-g8
-sg9
-S'Mary J. Blige'
+S'static/img/11.jpg'
 p14
-sa(dp15
+sg9
+S'M.I.A.'
+p15
+sa(dp16
 g3
-S'upping yap-croons, hip-hop basics and straight-ahead vocal catatonic\\/Always pile up into the perfect soundtrack for a melodic version.'
-p16
-sg5
-S'45'
+S'A casual ode to an acoustic rock, this new tune from Interpol is danceable, straight and brimming with multitracked bitterness.'
 p17
-sg7
-g8
-sg9
-S'Gaslight Anthem'
+sg5
+S'Barricade'
 p18
-sa(dp19
-g3
-S'This new rehab-session number feels a bit like a verse, but the smart standout-laden decapitation hits hard.'
+sg7
+S'static/img/12.jpg'
+p19
+sg9
+S'Interpol'
 p20
-sg5
-S'6 Foot 7 Foot'
-p21
-sg7
-g8
-sg9
-S'Lil Wayne'
+sa(dp21
+g3
+S'The bitter tumult sets the stage for a display of girly vocal acrobatics and arty sparkle.'
 p22
-sa(dp23
-g3
-S"This track from Hugo's literary heated album is a catchy beast that loads up on howls without scrimping on song-shaking potential or simple, young vibe."
+sg5
+S'Bizness'
+p23
+sg7
+S'static/img/13.jpg'
 p24
-sg5
-S'99 Problems'
+sg9
+S'Tune-Yards'
 p25
-sg7
-g8
-sg9
-S'Hugo'
-p26
-sa(dp27
+sa(dp26
 g3
-S'roiling drums, indecipherable vocals and toRave vocal plucks pile up into the perfect soundtrack for a dolorous universe.'
-p28
+S"This taste of Yuck's new album nearly conflates their entire set: There's parlor-folk emoting, unblinking, attack-storm rhythms and suffering-punk rock."
+p27
 sg5
-S'A Drowning'
-p29
+S'Chew'
+p28
 sg7
-g8
+S'static/img/14.jpg'
+p29
 sg9
-S'How To Destroy Angels'
+S'Yuck'
 p30
 sa(dp31
 g3
-S'Putting any actual catch in a song about sandpaper would be way too obvious for these genre-bending young verses.'
+S'A tense ode to an arena-rock intimacy, this new tune from Scott Weiland is funky, clear and brimming with old chill.'
 p32
 sg5
-S'Abducted'
+S'Breathe'
 p33
 sg7
-g8
-sg9
-S'Cults'
+S'static/img/15.jpg'
 p34
-sa(dp35
+sg9
+S'Scott Weiland'
+p35
+sa(dp36
 g3
-S"This track from Arcade Fire is a very ramshackle declaration of chill from some murky spawn - and one of the band's finest songs ever."
-p36
-sg5
-S"Abraham's Daughter"
+S"This track from How To Destroy Angels is a typically dancin declaration of euphoria from some taut chorus - and one of the band's biggest songs ever."
 p37
-sg7
-g8
-sg9
-S'Arcade Fire'
+sg5
+S'A Drowning'
 p38
-sa(dp39
-g3
-S'The frat-tastic tumult sets the stage for a display of sweet vocal acrobatics and fucked a.k.a..'
+sg7
+S'static/img/16.jpg'
+p39
+sg9
+S'How To Destroy Angels'
 p40
-sg5
-S'Adolescents'
-p41
-sg7
-g8
-sg9
-S'Incubus'
+sa(dp41
+g3
+S'Putting any actual guy in a song about sass would be way too obvious for these genre-bending full-on echoes.'
 p42
-sa(dp43
-g3
-S'dirty in a whistle-along, heart-wrenching sort of way, this new single mixes a lean backbeat with Blink-182\'s punk-packed quarters about the death of "demon and hand."'
+sg5
+S'Beautiful Monster'
+p43
+sg7
+S'static/img/17.jpg'
 p44
-sg5
-S'After Midnight'
+sg9
+S'Ne-Yo'
 p45
-sg7
-g8
-sg9
-S'Blink-182'
-p46
-sa(dp47
+sa(dp46
 g3
-S"This track from Noel Gallagher's little brawling album is a pregnant beast that loads up on riffs without scrimping on lyricist-shaking potential or smart, cultural soul."
-p48
+S'But when Arctic Monkeys gets to the chorus, they adopt a new, great-pitched solo, tingeing the chugging track with chivalry and a hint of guy.'
+p47
 sg5
-S'AKA...What A Life!'
-p49
+S'Brick By Brick'
+p48
 sg7
-g8
+S'static/img/18.jpg'
+p49
 sg9
-S'Noel Gallagher'
+S'Arctic Monkeys'
 p50
 sa(dp51
 g3
-S'But when MGMT gets to the chorus, they adopts a dark, polio-pitched movieScott, tingeing the post-breakup track with love and a hint of thing.'
+S'Miranda Lambert sounds extra-heartfelt on this riveting ode to funky love, trading gloriously loverman verses about wounded proverbs.'
 p52
 sg5
-S'All We Ever Wanted Was Everything'
+S'Baggage Claim'
 p53
 sg7
-g8
-sg9
-S'MGMT'
+S'static/img/20.jpg'
 p54
-sa(dp55
+sg9
+S'Miranda Lambert'
+p55
+sa(dp56
 g3
-S"It's a revolutionary patient whose schlocky fromBruce feels too rich."
-p56
-sg5
-S'AM/FM'
+S'The scuffed tumult sets the stage for a display of bad-boyfriend-crushing vocal acrobatics and yearning rap.'
 p57
-sg7
-g8
-sg9
-S'!!!'
+sg5
+S'6 Foot 7 Foot'
 p58
-sa(dp59
-g3
-S"It's a quick rush whose cyborg hell feels too hot."
+sg7
+S'static/img/21.jpg'
+p59
+sg9
+S'Lil Wayne'
 p60
-sg5
-S'Angel Dance'
-p61
-sg7
-g8
-sg9
-S'Robert Plant'
+sa(dp61
+g3
+S"It's a suicidal disc whose hip-hop swag feels too personal."
 p62
-sa(dp63
-g3
-S'This first Brit number feels a bit like a rubbery, but the actual frailty-laden cliff hits hard.'
+sg5
+S'99 Problems'
+p63
+sg7
+S'static/img/3.jpg'
 p64
-sg5
-S'Arms'
+sg9
+S'Hugo'
 p65
-sg7
-g8
-sg9
-S'Christina Perri'
-p66
-sa(dp67
+sa(dp66
 g3
-S'second in a raw, way-wrenching sort of way, this new single mixes a ravishing backbeat with Ariel Pink\'s Haunted Graffiti\'s bridge-packed molasses about the mix of "electro and way."'
-p68
+S'Playing speeds, bad marriages and goth vocal beats pile up into the perfect soundtrack for a raw lover.'
+p67
 sg5
-S'Baby'
-p69
+S'After Midnight'
+p68
 sg7
-g8
+S'static/img/4.jpg'
+p69
 sg9
-S"Ariel Pink's Haunted Graffiti"
+S'Blink-182'
 p70
 sa(dp71
 g3
-S"It's a swift improvement whose ridiculous classicist feels too vintage."
+S"This track from MGMT's glass-half-full dazed album is a Brit beast that loads up on geeks without scrimping on Sex-shaking potential or smart, hip-shaking uplift."
 p72
 sg5
-S'Bad As Me'
+S'All We Ever Wanted Was Everything'
 p73
 sg7
-g8
-sg9
-S'Tom Waits'
+S'static/img/5.jpg'
 p74
-sa(dp75
+sg9
+S'MGMT'
+p75
+sa(dp76
 g3
-S"It's a ghost-children love whose indie rap feels too pulsating."
-p76
+S"This track from Beck's beehive perfect album is a white beast that loads up on horns without scrimping on varsity-shaking potential or anthemic, indie-psych potential."
+p77
 sg5
 S'Bad Blood'
-p77
+p78
 sg7
-g8
+S'static/img/6.jpg'
+p79
 sg9
 S'Beck'
-p78
-sa(dp79
-g3
-S"This taste of M.I.A.'s new album nearly conflates their entire pout: There's sympathetic throne, genteel, ofBuilt-storm rhythms and chorus-punk cigarette."
 p80
-sg5
-S'Bad Girls'
-p81
-sg7
-g8
-sg9
-S'M.I.A.'
+sa(dp81
+g3
+S'But when Liz Phair gets to the chorus, they adopt a new, haaaaawwww-aw-aw-aw-aw-kytonky-pitched kid, tingeing the melodic track with rock and a hint of pop.'
 p82
-sa(dp83
-g3
-S"This track from Miranda Lambert is a deeply ramshackle declaration of tunesmithery from some Auto-Tuned club - and one of the band's starkest songs ever."
+sg5
+S'Bollywood'
+p83
+sg7
+S'static/img/8.jpg'
 p84
-sg5
-S'Baggage Claim'
+sg9
+S'Liz Phair'
 p85
-sg7
-g8
-sg9
-S'Miranda Lambert'
-p86
-sa(dp87
+sa(dp86
 g3
-S"It's a quiet indictment whose em debut feels too sweet."
-p88
+S"This taste of Florence and the Machine's new album nearly conflates their entire soundtrack: There's arty rap, back-and-forth, plant-storm rhythms and fury-punk frippery."
+p87
 sg5
-S'Barricade'
-p89
+S'Breath of Life'
+p88
 sg7
-g8
+S'static/img/1.jpg'
+p89
 sg9
-S'Interpol'
+S'Florence and the Machine'
 p90
 sa(dp91
 g3
-S'Ne-Yo sounds extra-hidden on this nasty-sounding ode to lost love, trading disgustingly abstruse verses about revived suits.'
+S'Midtempo in a fracturing, tongue-wrenching sort of way, this new single mixes a total backbeat with Scott Weiland\'s anthem-packed targets about the oath of "ache and beloved."'
 p92
 sg5
-S'Beautiful Monster'
+S'Breathe'
 p93
 sg7
-g8
-sg9
-S'Ne-Yo'
+S'static/img/11.jpg'
 p94
-sa(dp95
+sg9
+S'Scott Weiland'
+p95
+sa(dp96
 g3
-S"This track from Soundgarden's whistle-along spry album is a perfect beast that loads up on harmonies without scrimping on club-shaking potential or anthemic, sthird benediction."
-p96
-sg5
-S'Been Away Too Long'
+S'Kanye West sounds extra-perfect on this fat ode to gospel-soul love, trading nowhere forthcoming verses about revived dreams.'
 p97
-sg7
-g8
-sg9
-S'Soundgarden'
+sg5
+S'Christmas In Harlem'
 p98
-sa(dp99
-g3
-S'The Pains of Being Pure at Heart sounds extra-drama-packed on this Dave-like ode to lost love, trading warmly em verses about twined politics.'
+sg7
+S'static/img/12.jpg'
+p99
+sg9
+S'Kanye West'
 p100
-sg5
-S'Belong'
-p101
-sg7
-g8
-sg9
-S'The Pains of Being Pure at Heart'
+sa(dp101
+g3
+S'A light ode to an intense note, this new tune from The Hives is angry, heavy and brimming with distorted everything.'
 p102
-sa(dp103
-g3
-S'The classic tumult sets the stage for a display of pink-chiffon vocal acrobatics and abstruse rubbery.'
+sg5
+S"Civilization's Dying"
+p103
+sg7
+S'static/img/13.jpg'
 p104
-sg5
-S'Best Thing I Never Had'
+sg9
+S'The Hives'
 p105
-sg7
-g8
-sg9
-S'Beyonce'
-p106
-sa(dp107
+sa(dp106
 g3
-S'But when Teen gets to the chorus, they adopts a tantalizing, rolling-machine-pitched line, tingeing the fearsome track with theAvengerssoundtrack and a hint of hearingDylanand.'
-p108
+S'Putting any actual spot in a song about place would be way too obvious for these genre-bending evil-queen things.'
+p107
 sg5
-S'Better'
-p109
+S'Barricade'
+p108
 sg7
-g8
+S'static/img/14.jpg'
+p109
 sg9
-S'Teen'
+S'Interpol'
 p110
 sa(dp111
 g3
-S'This common huge number feels a bit like a emoting, but the hot potato-laden decapitation hits hard.'
+S'Much-rumored in a booty-call, hell-wrenching sort of way, this new single mixes a Zen backbeat with Mary J. Blige\'s sound-packed synths about the death of "approach and future."'
 p112
 sg5
-S'Better Days'
+S'25/8'
 p113
 sg7
-g8
-sg9
-S'Eddie Vedder'
+S'static/img/15.jpg'
 p114
-sa(dp115
+sg9
+S'Mary J. Blige'
+p115
+sa(dp116
 g3
-S"It's a dirty longing whose peppy lover feels too Young."
-p116
-sg5
-S'Better Than I Know Myself'
+S'A scruffy ode to an intense melody, this new tune from Justin Bieber is intoxicating, simple and brimming with wild guy.'
 p117
-sg7
-g8
-sg9
-S'Adam Lambert'
+sg5
+S'Boyfriend'
 p118
-sa(dp119
-g3
-S"This taste of Tune-Yards's new album nearly conflates their entire standard: There's urgent folky, classic, boogie-storm rhythms and approach-punk church."
+sg7
+S'static/img/16.jpg'
+p119
+sg9
+S'Justin Bieber'
 p120
-sg5
-S'Bizness'
-p121
-sg7
-g8
-sg9
-S'Tune-Yards'
+sa(dp121
+g3
+S"It's a bizarro chillaxin whose bar-band frontman feels too pushy."
 p122
-sa(dp123
-g3
-S'A ragged ode to a indie-rock album, this new tune from Soundgarden is on-the-rise , pushy and brimming with scruffy bummer.'
+sg5
+S'A Drowning'
+p123
+sg7
+S'static/img/17.jpg'
 p124
-sg5
-S'Black Rain'
+sg9
+S'How To Destroy Angels'
 p125
-sg7
-g8
-sg9
-S'Soundgarden'
-p126
-sa(dp127
+sa(dp126
 g3
-S'Putting any actual catch in a song about buzz would be way too obvious for these genre-bending young lasers.'
-p128
+S'Nonthreatening roots, post-punk detailing and pink-chiffon vocal chords pile up into the perfect soundtrack for a low-key dialogue.'
+p127
 sg5
-S'Bollywood'
-p129
+S'AKA...What A Life!'
+p128
 sg7
-g8
+S'static/img/18.jpg'
+p129
 sg9
-S'Liz Phair'
+S'Noel Gallagher'
 p130
 sa(dp131
 g3
-S'singer-guitarist in a dead, remake-wrenching sort of way, this new single mixes a fracturing backbeat with Childish Gambino\'s lady-killer-packed lyrics about the taste of "spawn and side."'
+S"This taste of Lil Wayne's new album nearly conflates their entire lunatic: There's heavy-handed word-hurling, shy, sample-storm rhythms and generation-punk rap."
 p132
 sg5
-S'Bonfire'
+S'6 Foot 7 Foot'
 p133
 sg7
-g8
-sg9
-S'Childish Gambino'
+S'static/img/20.jpg'
 p134
-sa(dp135
+sg9
+S'Lil Wayne'
+p135
+sa(dp136
 g3
-S'kicking unicorns, female guitars and hacked-up vocal roots pile up into the perfect soundtrack for a post-breakup rave.'
-p136
-sg5
-S'Bonus Track #77'
+S"This track from Cults's blog-buzz great album is a catchy beast that loads up on riffs without scrimping on acoustic-shaking potential or simple, idiosyncratic roll."
 p137
-sg7
-g8
-sg9
-S'Prince'
+sg5
+S'Abducted'
 p138
-sa(dp139
-g3
-S'But when Lady Gaga gets to the chorus, they adopts a seven-minute, contrite-Kanye-pitched catharsis, tingeing the late-summer track with time and a hint of pop.'
+sg7
+S'static/img/21.jpg'
+p139
+sg9
+S'Cults'
 p140
-sg5
-S'Born This Way'
-p141
-sg7
-g8
-sg9
-S'Lady Gaga'
+sa(dp141
+g3
+S'Putting any actual reinvention in a song about blues-rock would be way too obvious for these genre-bending beat Friends.'
 p142
-sa(dp143
-g3
-S'leaving riffs, non-Christian claustrophobic and sweet vocal verses pile up into the perfect soundtrack for a big sense.'
+sg5
+S'Adolescents'
+p143
+sg7
+S'static/img/3.jpg'
 p144
-sg5
-S'Born to Lose'
+sg9
+S'Incubus'
 p145
-sg7
-g8
-sg9
-S'Sleigh Bells'
-p146
-sa(dp147
+sa(dp146
 g3
-S'This M.I.A.-approved simple workout by the thunder-rumble rock act throws in dime-store forces, drum-machine drums and a sample from the first instrument.'
-p148
+S'Tom Waits sounds extra-lean on this shrink-wrapped ode to hammer-of-the-gods love, trading oddly sublime verses about strewn fans.'
+p147
 sg5
-S'Boyfriend'
-p149
+S'Bad As Me'
+p148
 sg7
-g8
+S'static/img/4.jpg'
+p149
 sg9
-S'Justin Bieber'
+S'Tom Waits'
 p150
 sa(dp151
 g3
-S'This first worldly workout by the doom-drum rush act throws in dime-store haters, drum-machine guitars and a sample from the single instrument.'
+S'But when Blink-182 gets to the chorus, they adopt a spiky, vintage-synth-pitched wallop, tingeing the melodic track with pop and a hint of time.'
 p152
 sg5
-S'Breath of Life'
+S'After Midnight'
 p153
 sg7
-g8
-sg9
-S'Florence and the Machine'
+S'static/img/5.jpg'
 p154
-sa(dp155
+sg9
+S'Blink-182'
+p155
+sa(dp156
 g3
-S'This reverb-dunked filthy number feels a bit like a LP, but the big baptism-laden tinkling hits hard.'
-p156
-sg5
-S'Breathe'
+S"This track from MGMT is a pretty abject declaration of civilization from some strummed station - and one of the band's latest songs ever."
 p157
-sg7
-g8
-sg9
-S'Scott Weiland'
+sg5
+S'All We Ever Wanted Was Everything'
 p158
-sa(dp159
-g3
-S'Arctic Monkeys sounds extra-newTom on this tantalizing ode to lost love, trading gloriously meat-and-potatoes verses about kidnapped records.'
+sg7
+S'static/img/6.jpg'
+p159
+sg9
+S'MGMT'
 p160
-sg5
-S'Brick By Brick'
-p161
-sg7
-g8
-sg9
-S'Arctic Monkeys'
+sa(dp161
+g3
+S'The leather-lunged tumult sets the stage for a display of chunky vocal acrobatics and sweet percussion.'
 p162
-sa(dp163
-g3
-S'effective in a ballad, fusion-wrenching sort of way, this new single mixes a bleak backbeat with Jai Paul\'s sound-packed hitmakers about the passing of "death and presence\\/I."'
+sg5
+S'AM/FM'
+p163
+sg7
+S'static/img/8.jpg'
 p164
-sg5
-S'BTSTU (edit)'
+sg9
+S'!!!'
 p165
-sg7
-g8
-sg9
-S'Jai Paul'
-p166
-sa(dp167
+sa(dp166
 g3
-S"This taste of Linkin Park's new album nearly conflates their entire drum: There's blond gusher, Hearing, case-storm rhythms and pout-punk pairing."
-p168
+S'Putting any actual question in a song about heartache would be way too obvious for these genre-bending forthcoming critics.'
+p167
 sg5
-S'Burn It Down'
-p169
+S'Angel Dance'
+p168
 sg7
-g8
+S'static/img/1.jpg'
+p169
 sg9
-S'Linkin Park'
+S'Robert Plant'
 p170
 sa(dp171
 g3
-S"This taste of EMA's new album nearly conflates their entire groove: There's post-punk Girlsouttake, bland, angst-storm rhythms and single-punk drummer\\/secret."
+S"But when Ariel Pink's Haunted Graffiti gets to the chorus, they adopt a post-breakup, torpid-pitched rock, tingeing the sugary track with sugar and a hint of dream-pop."
 p172
 sg5
-S'California'
+S'Baby'
 p173
 sg7
-g8
-sg9
-S'EMA'
+S'static/img/11.jpg'
 p174
-sa(dp175
+sg9
+S"Ariel Pink's Haunted Graffiti"
+p175
+sa(dp176
 g3
-S'laptop-rocking in a bleak, band-wrenching sort of way, this new single mixes a rolling-machine backbeat with Delta Spirit\'s track-packed drunks about the lead of "swing and death."'
-p176
-sg5
-S'California'
+S"This track from Beck is a pretty warm-hued declaration of drummer from some over-the-top ingenue - and one of the band's finest songs ever."
 p177
-sg7
-g8
-sg9
-S'Delta Spirit'
+sg5
+S'Bad Blood'
 p178
-sa(dp179
-g3
-S"This taste of The xx's new album nearly conflates their entire offering: There's bright acoustic, classic, woman-storm rhythms and contestant-punk bedroom."
+sg7
+S'static/img/12.jpg'
+p179
+sg9
+S'Beck'
 p180
-sg5
-S'Chained'
-p181
-sg7
-g8
-sg9
-S'The xx'
+sa(dp181
+g3
+S"This track from Arcade Fire's spiky hot album is a spiky beast that loads up on millennials without scrimping on pop-shaking potential or cold, beat noise."
 p182
-sa(dp183
-g3
-S"This taste of Coldplay's new album nearly conflates their entire blues: There's crazy verb, inspirational, blues-rock-storm rhythms and soundtrack-punk suggestColdplay."
+sg5
+S"Abraham's Daughter"
+p183
+sg7
+S'static/img/13.jpg'
 p184
-sg5
-S'Charlie Brown'
+sg9
+S'Arcade Fire'
 p185
-sg7
-g8
-sg9
-S'Coldplay'
-p186
-sa(dp187
+sa(dp186
 g3
-S'Putting any actual song in a song about producerBeck would be way too obvious for these genre-bending rainforest-of-the-soul screws.'
-p188
+S"It's a fierce bounce whose seductive minimalism feels too lead."
+p187
 sg5
-S'Chew'
-p189
+S'Been Away Too Long'
+p188
 sg7
-g8
+S'static/img/14.jpg'
+p189
 sg9
-S'Yuck'
+S'Soundgarden'
 p190
 sa(dp191
 g3
-S'This new worldly workout by the odd stocking act throws in dime-store claustrophobic, drum-machine kiddies and a sample from the first instrument.'
+S'A downtrodden ode to a pure knockout, this new tune from Arctic Monkeys is booty-shaking, simple and brimming with satin everything.'
 p192
 sg5
-S'Christmas In Harlem'
+S'Brick By Brick'
 p193
 sg7
-g8
-sg9
-S'Kanye West'
+S'static/img/15.jpg'
 p194
-sa(dp195
+sg9
+S'Arctic Monkeys'
+p195
+sa(dp196
 g3
-S"It's a ragged mini-epic whose surreal bang feels too Good."
-p196
-sg5
-S'Circuital'
+S'But when The Pains of Being Pure at Heart gets to the chorus, they adopt a propulsive, little-pitched solo, tingeing the wasted-youth track with melodrama and a hint of cheek.'
 p197
-sg7
-g8
-sg9
-S'My Morning Jacket'
+sg5
+S'Belong'
 p198
-sa(dp199
-g3
-S"This track from Justice's high rocket-propelled album is a tantalizing beast that loads up on against-the-odds without scrimping on fromM-shaking potential or anthemic, electronic sex."
+sg7
+S'static/img/16.jpg'
+p199
+sg9
+S'The Pains of Being Pure at Heart'
 p200
-sg5
-S'Civilization'
-p201
-sg7
-g8
-sg9
-S'Justice'
-p202
-sa(dp203
+sa(dp201
 g3
-S"This track from The Hives's full-fledged heated album is a frisky beast that loads up on Nineties without scrimping on song-shaking potential or steady, young roll."
-p204
+S'Kicking voices, hard-nosed vocals and pink-chiffon vocal roots pile up into the perfect soundtrack for a national riff.'
+p202
 sg5
-S"Civilization's Dying"
-p205
+S'Better Days'
+p203
 sg7
-g8
+S'static/img/17.jpg'
+p204
 sg9
-S'The Hives'
-p206
+S'Eddie Vedder'
+p205
+sa(dp206
+g3
+S'Snarling shingles, chamber-group guitars and Hendrix-style vocal cranks pile up into the perfect soundtrack for a tantalizing lover.'
+p207
+sg5
+S'Better Than I Know Myself'
+p208
+sg7
+S'static/img/18.jpg'
+p209
+sg9
+S'Adam Lambert'
+p210
+sa(dp211
+g3
+S"This track from Tune-Yards is a very sweet declaration of thing from some romantic hit - and one of the band's catchiest songs ever."
+p212
+sg5
+S'Bizness'
+p213
+sg7
+S'static/img/20.jpg'
+p214
+sg9
+S'Tune-Yards'
+p215
+sa(dp216
+g3
+S"This track from Soundgarden is a pretty dancin declaration of Click from some careworn track - and one of the band's biggest songs ever."
+p217
+sg5
+S'Black Rain'
+p218
+sg7
+S'static/img/21.jpg'
+p219
+sg9
+S'Soundgarden'
+p220
+sa(dp221
+g3
+S'Young in a new, fan-wrenching sort of way, this new single mixes a big backbeat with Liz Phair\'s haunting-packed Girls about the rest of "Beach and transition."'
+p222
+sg5
+S'Bollywood'
+p223
+sg7
+S'static/img/3.jpg'
+p224
+sg9
+S'Liz Phair'
+p225
+sa(dp226
+g3
+S"This taste of Childish Gambino's new album nearly conflates their entire song: There's sad Call, riveting, sound-storm rhythms and beard-punk rock."
+p227
+sg5
+S'Bonfire'
+p228
+sg7
+S'static/img/4.jpg'
+p229
+sg9
+S'Childish Gambino'
+p230
+sa(dp231
+g3
+S'The such tumult sets the stage for a display of hacked-up vocal acrobatics and bold head-knocking.'
+p232
+sg5
+S'Bonus Track #77'
+p233
+sg7
+S'static/img/5.jpg'
+p234
+sg9
+S'Prince'
+p235
+sa(dp236
+g3
+S'The drum-machine tumult sets the stage for a display of raw vocal acrobatics and havesuch ain.'
+p237
+sg5
+S'Born This Way'
+p238
+sg7
+S'static/img/6.jpg'
+p239
+sg9
+S'Lady Gaga'
+p240
+sa(dp241
+g3
+S'This fuzz-rock hypnotic number feels a bit like a cellphone, but the big character-laden skronk hits hard.'
+p242
+sg5
+S'Breath of Life'
+p243
+sg7
+S'static/img/8.jpg'
+p244
+sg9
+S'Florence and the Machine'
+p245
+sa(dp246
+g3
+S"This taste of Scott Weiland's new album nearly conflates their entire chorus: There's raggedy circus, ramshackle, threat-storm rhythms and confession-punk pal."
+p247
+sg5
+S'Breathe'
+p248
+sg7
+S'static/img/1.jpg'
+p249
+sg9
+S'Scott Weiland'
+p250
 sa.
