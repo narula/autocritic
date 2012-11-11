@@ -1,4 +1,5 @@
 from flask import Flask, url_for, request, render_template
+from parse import parse_sample
 
 # python server.py
 # Super hacky lightweight server which outputs data
@@ -19,7 +20,7 @@ def index2():
 
 @app.route("/")
 def index2():
-    return render_template('index-flip.html')
+    return render_template('index-flip-arg.html', results=parse_sample())
     
 if __name__ == "__main__":
     app.run(debug=True)
